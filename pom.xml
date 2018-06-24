@@ -45,5 +45,11 @@
       <artifactId>cucumber-core</artifactId>
       <version>1.2.4</version>
     </dependency>
+    <dependency>
+      <groupId>com.github.tomakehurst</groupId>
+      <artifactId>wiremock</artifactId>
+      <version>1.58</version>
+      <scope>test</scope>
+    </dependency>
   </dependencies>
 </project>
